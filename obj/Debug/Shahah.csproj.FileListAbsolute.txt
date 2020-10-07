@@ -1,0 +1,50 @@
+B:\C#\FileExplorer\obj\Debug\Shahah.csprojResolveAssemblyReference.cache
+B:\C#\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+B:\C#\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+B:\C#\FileExplorer\obj\Debug\Shahah.csproj.GenerateResource.Cache
+B:\C#\FileExplorer\obj\Debug\Shahah.csproj.CoreCompileInputs.cache
+B:\C#\FileExplorer\obj\Debug\FileExplorer.exe
+B:\C#\FileExplorer\obj\Debug\FileExplorer.pdb
+B:\C#\FileExplorer\bin\Debug\FileExplorer.exe.config
+B:\C#\FileExplorer\bin\Debug\FileExplorer.exe
+B:\C#\FileExplorer\bin\Debug\FileExplorer.pdb
+B:\C#\suul1\bin\Debug\FileExplorer.exe.config
+B:\C#\suul1\bin\Debug\FileExplorer.exe
+B:\C#\suul1\bin\Debug\FileExplorer.pdb
+B:\C#\suul1\obj\Debug\Shahah.csprojResolveAssemblyReference.cache
+B:\C#\suul1\obj\Debug\FileExplorer.Form1.resources
+B:\C#\suul1\obj\Debug\FileExplorer.Properties.Resources.resources
+B:\C#\suul1\obj\Debug\Shahah.csproj.GenerateResource.Cache
+B:\C#\suul1\obj\Debug\Shahah.csproj.CoreCompileInputs.cache
+B:\C#\suul1\obj\Debug\FileExplorer.exe
+B:\C#\suul1\obj\Debug\FileExplorer.pdb
+B:\C#\suulchiinh\bin\Debug\FileExplorer.exe.config
+B:\C#\suulchiinh\bin\Debug\FileExplorer.exe
+B:\C#\suulchiinh\bin\Debug\FileExplorer.pdb
+B:\C#\suulchiinh\obj\Debug\Shahah.csprojResolveAssemblyReference.cache
+B:\C#\suulchiinh\obj\Debug\FileExplorer.Form1.resources
+B:\C#\suulchiinh\obj\Debug\FileExplorer.Properties.Resources.resources
+B:\C#\suulchiinh\obj\Debug\Shahah.csproj.GenerateResource.Cache
+B:\C#\suulchiinh\obj\Debug\Shahah.csproj.CoreCompileInputs.cache
+B:\C#\suulchiinh\obj\Debug\FileExplorer.exe
+B:\C#\suulchiinh\obj\Debug\FileExplorer.pdb
+B:\C#\bolj baigaa\bin\Debug\FileExplorer.exe.config
+B:\C#\bolj baigaa\bin\Debug\FileExplorer.exe
+B:\C#\bolj baigaa\bin\Debug\FileExplorer.pdb
+B:\C#\bolj baigaa\obj\Debug\Shahah.csprojResolveAssemblyReference.cache
+B:\C#\bolj baigaa\obj\Debug\FileExplorer.Form1.resources
+B:\C#\bolj baigaa\obj\Debug\FileExplorer.Properties.Resources.resources
+B:\C#\bolj baigaa\obj\Debug\Shahah.csproj.GenerateResource.Cache
+B:\C#\bolj baigaa\obj\Debug\Shahah.csproj.CoreCompileInputs.cache
+B:\C#\bolj baigaa\obj\Debug\FileExplorer.exe
+B:\C#\bolj baigaa\obj\Debug\FileExplorer.pdb
+\\Mac\Home\Downloads\bolj baigaa\bin\Debug\FileExplorer.exe.config
+\\Mac\Home\Downloads\bolj baigaa\bin\Debug\FileExplorer.exe
+\\Mac\Home\Downloads\bolj baigaa\bin\Debug\FileExplorer.pdb
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\Shahah.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\FileExplorer.Form1.resources
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\FileExplorer.Properties.Resources.resources
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\Shahah.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\Shahah.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\FileExplorer.exe
+\\Mac\Home\Downloads\bolj baigaa\obj\Debug\FileExplorer.pdb

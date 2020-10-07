@@ -1,0 +1,10 @@
+B:\C#\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+B:\C#\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+B:\C#\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+B:\C#\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+B:\C#\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+B:\C#\FileExplorer\bin\Debug\FileExplorer.exe.config
+B:\C#\FileExplorer\bin\Debug\FileExplorer.exe
+B:\C#\FileExplorer\bin\Debug\FileExplorer.pdb
+B:\C#\FileExplorer\obj\Debug\FileExplorer.exe
+B:\C#\FileExplorer\obj\Debug\FileExplorer.pdb
