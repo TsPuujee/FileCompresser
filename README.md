@@ -1,6 +1,6 @@
 # FileCompresser
 
-**Хувьсах урттай кодчилол ([Хаффман]((https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/),))**  болон **[арифметик кодчилол](https://www.geeksforgeeks.org/arithmetic-encoding-and-decoding-using-matlab/)** -ийг ашиглаж Текстэн мэдээлэллийг шахах програм.
+**Хувьсах урттай кодчилол **[Хаффман](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)**  болон **[арифметик кодчилол](https://www.geeksforgeeks.org/arithmetic-encoding-and-decoding-using-matlab/)** -ийг ашиглаж Текстэн мэдээлэллийг шахах програм.
 
 ### **Хаффманы кодчилол**
 - 1951 онд Дэвид А.Хафман болон түүний MIT сургуулийн мэдээллийн онолын ангийнхан [Шаннон-Фано](https://www.geeksforgeeks.org/shannon-fano-algorithm-for-data-compression/) алгоритмийг нээсэн.
